@@ -5,27 +5,9 @@ coverY: 0
 
 # 👋 TigerstadenRP Reglement
 
-
-
-## Oversikt
-
-Here are a couple of example overviews from products with really great docs:
-
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
-
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
-
 ##
 
 ## Administrative Regler
-
-blah blah TESTETSER
 
 {% content-ref url="1.-administrative-regler/1.1-aldersgrense.md" %}
 [1.1-aldersgrense.md](1.-administrative-regler/1.1-aldersgrense.md)
@@ -62,8 +44,6 @@ blah blah TESTETSER
 ##
 
 ## Generelle regler
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
 
 {% content-ref url="2-generelle-regler/2.1-scenarioer-med-unntak-fra-reglementet.md" %}
 [2.1-scenarioer-med-unntak-fra-reglementet.md](2-generelle-regler/2.1-scenarioer-med-unntak-fra-reglementet.md)
@@ -104,8 +84,6 @@ We've put together some helpful guides for you to get setup with our product qui
 ##
 
 ## Regler for rollespill
-
-nerrerewrwe
 
 {% content-ref url="3-regler-for-rollespill/3.1-powergaming.md" %}
 [3.1-powergaming.md](3-regler-for-rollespill/3.1-powergaming.md)
@@ -159,8 +137,6 @@ nerrerewrwe
 
 ## Kriminelle regler
 
-3434
-
 {% content-ref url="4-kriminelle-regler/4.1-greenzones.md" %}
 [4.1-greenzones.md](4-kriminelle-regler/4.1-greenzones.md)
 {% endcontent-ref %}
@@ -193,8 +169,6 @@ nerrerewrwe
 
 ## Jobbregler
 
-656
-
 {% content-ref url="5-jobbregler/5.1-tjeneste-inventar-og-vapen.md" %}
 [5.1-tjeneste-inventar-og-vapen.md](5-jobbregler/5.1-tjeneste-inventar-og-vapen.md)
 {% endcontent-ref %}
@@ -214,8 +188,6 @@ nerrerewrwe
 ##
 
 ## Karakter regler
-
-34534
 
 {% content-ref url="6-karakter-regler/6.1-uakseptable-karakternavn.md" %}
 [6.1-uakseptable-karakternavn.md](6-karakter-regler/6.1-uakseptable-karakternavn.md)

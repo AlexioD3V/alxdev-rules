@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 TigerstadenRP Reglement](README.md)
-* [Begreper](begreper.md)
+* [📔 Begreper](begreper.md)
 
 ## §1. Administrative Regler
 
